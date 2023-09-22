@@ -7,6 +7,8 @@ Then import the package into your file
 "from jsonapi.jsonapi import * "
 
 
+To test, cd into root directory and run python3 -m unittests
+
 Should describe the package, provide installation instructions and some code samples.
 
 This package has functions using a child class of JSONEncoder and JSONDecoder that allow the conversion of complex and ranges to and from JSON
